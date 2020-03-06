@@ -1,0 +1,14 @@
+{
+  "name": "simple-express-server",
+  "version": "0.0.1",
+  "description": "An Express server simply to see how they work and to setup fast on other machines.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ 
+    "express"
+  ],
+  "author": "Spencer Pollock <spencer@spollock.ca>",
+  "license": "ISC"
+}
